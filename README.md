@@ -1,5 +1,6 @@
 
 # Project Analytics Backend
+App to collect analytics data of user of a website. Stores, compute and then show processed results on a user dashboard
 
 ## Prerequisites
 
